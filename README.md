@@ -1,4 +1,4 @@
-# ToDo List Frontend Project
+# Todo List Frontend Project
 
 This project is a simple ToDo list application built using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
 
